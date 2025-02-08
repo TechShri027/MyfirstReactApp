@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-     <h1>Hello homie💕</h1>
+     <h1>Hello This is my First React App</h1>
     </>
   )
 }
